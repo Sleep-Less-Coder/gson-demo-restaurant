@@ -1,0 +1,36 @@
+{
+	"name": "Rajesh\u0027s Mo:Mo house",
+	"owner": {
+		"name": "Rajesh",
+		"userAddress": {
+			"street": "Main Street",
+			"houseNumber": "42A",
+			"city": "Fairfax",
+			"country": "United States"
+		}
+	},
+	"cook": {
+		"age": 18,
+		"name": "Mike",
+		"salary": 3000
+	},
+	"waiter": {
+		"age": 25,
+		"name": "Thomas",
+		"salary": 5000
+	},
+	"items": [
+		{
+			"name": "Steak",
+			"price": 20.0
+		},
+		{
+			"name": "Sphagetti",
+			"price": 5.0
+		},
+		{
+			"name": "Hot Dog",
+			"price": 3.0
+		}
+	]
+}
